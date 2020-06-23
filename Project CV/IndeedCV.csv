@@ -1,0 +1,23 @@
+No,Field,Answer,Required,Sub
+1,First Name,Made,Yes,Profile
+2,Last Name,Wardana,Yes,Profile
+3,City of Home,Denpasar,Yes,Profile
+4,Phone Number,88703010139,No,Profile
+5,Degree,S1,Yes,Education
+6,School,Universitas Udayana,Yes,Education
+7,Field of Study,Computer Science,Yes,Education
+8,City of School,Denpasar,Yes,Education
+9,Time Period of School,Currently Attending,Yes,Education
+10,From,Jun-16,Yes,Education
+11,To,Present,Yes,Education
+12,Job Title,Graphic Designer,Yes,Work Experience
+13,Company,Kuykerja Indonesia,Yes,Work Experience
+14,City of Company,Denpasar,Yes,Work Experience
+15,Time Period of Work,I currently work here,Yes,Work Experience
+16,Form,May-18,Yes,Work Experience
+17,To,Present,Yes,Work Experience
+18,Description,"In this position, I managed the branding design of Kuykerja startup.",Yes,Work Experience
+19,Add a new skill,Microsoft Office,No,Skills
+20,,,,
+21,,,,
+22,,,,
